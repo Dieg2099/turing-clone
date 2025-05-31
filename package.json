@@ -8,8 +8,17 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://Dieg2099.github.io/turing-clone",
+  "homepage": "https://TU_USUARIO.github.io/turing-clone", 
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "devDependencies": {
-    "gh-pages": "^6.3.0"
+    "@types/react": "^18.0.27",
+    "@types/react-dom": "^18.0.10",
+    "@vitejs/plugin-react": "^4.2.0",
+    "typescript": "^5.3.3",
+    "vite": "^4.4.9",
+    "gh-pages": "^6.0.0"
   }
 }
