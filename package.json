@@ -1,0 +1,13 @@
+{
+  "name": "turing-clone",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^3.2.0",
+    "typescript": "^5.0.2",
+    "vite": "^4.3.9"
+  }
+}
